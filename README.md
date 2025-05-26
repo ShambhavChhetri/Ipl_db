@@ -9,10 +9,8 @@ A data-driven dashboard to explore and visualize Indian Premier League (IPL) sta
 - Clean, modular structure
 
 ## 📊Tech Stack
-- Python
 - SQLite / MySQL
-- Pandas
-- Matplotlib / Seaborn
+-Php
 
 ##  Getting Started
 ```bash
